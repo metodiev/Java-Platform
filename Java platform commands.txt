@@ -1,0 +1,8 @@
+java -version - which java version is installed on current PC(OS)
+JAVA_HOME - Directory where java is installed on current PC (in windows the command is: echo %JAVA_HOME%, in linux MAC OS echo $JAVA_HOME)
+JAVA_HOME - is configured in Windows under Environment Variables, System Variables
+
+
+Home Work - https://javatutorial.net/set-java-home-windows-10
+
+
